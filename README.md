@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Designer;Building+Next.js+%26+React+Apps;WordPress+Expert;Automating+Tasks+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Designer;Building+Next.js+%26+React+Apps;WordPress+Expert;Crafting+Digital+Experiences" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -27,15 +27,15 @@
   <h3>👨‍💻 A Little About Me</h3>
 
   <p>
-    I'm a passionate <b>Frontend Developer</b> and <b>Graphic Designer</b> from <b>Sohag, Egypt</b>, currently studying Information Technology at EELU. I blend clean code with creative design to build engaging web experiences and responsive user interfaces.
+    I'm a <b>Frontend Developer</b> and <b>Graphic Designer</b> based in <b>Sohag, Egypt</b>. I specialize in building responsive, user-centric web applications, blending clean code with modern design principles to create engaging digital experiences.
   </p>
 
   <ul>
-    <li>🔭 <b>Currently working on:</b> <a href="https://yasajaber.me">yasajaber.me</a> & Masar E-Learning.</li>
-    <li>⚡ <b>Tech Stack Focus:</b> Next.js, React, Tailwind CSS.</li>
-    <li>🤖 <b>Exploring:</b> AI Agents (Cursor, Windsurf) & Workflow Automation (n8n).</li>
-    <li>🤝 <b>Collaboration:</b> Open to open-source frontend projects and UI/UX challenges.</li>
-    <li>📫 <b>How to reach me:</b> <i>[Your Email Here]</i></li>
+    <li>🎓 Studying <b>Information Technology</b> at EELU.</li>
+    <li>⚡ <b>Core Skills:</b> Next.js, React, Tailwind CSS, WordPress.</li>
+    <li>🎨 <b>Creative Side:</b> UI/UX Design, Adobe Photoshop, Figma.</li>
+    <li>🌍 <b>Portfolio:</b> <a href="https://yasajaber.me">yasajaber.me</a></li>
+    <li>📫 <b>Get in touch:</b> <a href="mailto:yasajaber@gmail.com">yasajaber@gmail.com</a></li>
   </ul>
 </div>
 
